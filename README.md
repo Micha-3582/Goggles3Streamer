@@ -47,7 +47,7 @@ Windows nach Administratorrechten, danach nie wieder.
 > frei. Ist sie aus, kommt kein einziges Bild — und nichts weist darauf hin.
 >
 > <p align="center">
->   <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/settings.jpg?raw=true" alt="Live-Ansicht über Wi-Fi für Mobilgerät freigeben" width="480">
+>   <img src="https://goggles3streamer.micha3582.de/img/network-toggle.jpg" alt="Live-Ansicht über Wi-Fi für Mobilgerät freigeben" width="480">
 > </p>
 >
 > Das ist mit Abstand der häufigste Grund, warum es bei jemandem nicht geht.
@@ -60,9 +60,9 @@ Windows nach Administratorrechten, danach nie wieder.
    - Die Windows-Firewall-Abfrage mit **Zulassen** bestätigen, damit der lokale Datenstrom empfangen werden kann.
 
 <p align="center">
-  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/win-warning_1.jpg?raw=true" alt="SmartScreen Warnung" width="340">
+  <img src="https://goggles3streamer.micha3582.de/img/win-smartscreen-warning.jpg" alt="SmartScreen Warnung" width="340">
   &nbsp;&nbsp;
-  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/network_1.jpg?raw=true" alt="Firewall Freigabe" width="340">
+  <img src="hhttps://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Firewall Freigabe" width="340">
 </p>
 
 3. Brille per USB anstecken.
@@ -177,7 +177,7 @@ The program configures the network interface for the goggles **automatically**. 
 > Inside the goggles, the tile **"Share live view over Wi-Fi to mobile device"** must be enabled (Quick Menu: swipe down on the 5D button / joystick). Despite "over Wi-Fi" in the name, this toggle **also enables the USB connection**. If disabled, not a single video frame is transmitted — without any error or hint.
 >
 > <p align="center">
->   <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/settings.jpg?raw=true" alt="Share live view over Wi-Fi to mobile device" width="480">
+>   <img src="https://goggles3streamer.micha3582.de/img/network-toggle.jpg" alt="Share live view over Wi-Fi to mobile device" width="480">
 > </p>
 >
 > This is by far the most common reason why it doesn't work.
@@ -190,9 +190,9 @@ The program configures the network interface for the goggles **automatically**. 
    - When prompted by Windows Firewall / Security, click **Allow** to permit local network streaming.
 
 <p align="center">
-  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/win-warning_1.jpg?raw=true" alt="SmartScreen Warning" width="340">
+  <img src="https://goggles3streamer.micha3582.de/img/win-smartscreen-warning.jpg" alt="SmartScreen Warning" width="340">
   &nbsp;&nbsp;
-  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/network_1.jpg?raw=true" alt="Firewall Allow" width="340">
+  <img src="hhttps://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Network Permission" width="340">
 </p>
 
 3. Connect your goggles via USB.
