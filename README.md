@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/g3s-banner.jpg?raw=true" alt="Goggles3Streamer Banner" width="100%">
+  <img src="https://goggles3streamer.micha3582.de/img/Goggles3Streamer-Banner-gh.jpg" alt="Goggles3Streamer Banner" width="100%">
 </p>
 
 # Goggles3Streamer
@@ -137,7 +137,7 @@ wo auch der Quelltext von mpv erhältlich ist.
 # English
 
 <p align="center">
-  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/g3s-banner.jpg?raw=true" alt="Goggles3Streamer Banner" width="100%">
+  <img src="https://goggles3streamer.micha3582.de/img/Goggles3Streamer-Banner-gh.jpg" alt="Goggles3Streamer Banner" width="100%">
 </p>
 
 **Live video feed from the DJI Goggles 3 on your PC — via USB, straight and simple.**
