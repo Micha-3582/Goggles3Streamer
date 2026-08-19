@@ -62,7 +62,7 @@ Windows nach Administratorrechten, danach nie wieder.
 <p align="center">
   <img src="https://goggles3streamer.micha3582.de/img/win-smartscreen-warning.jpg" alt="SmartScreen Warnung" width="340">
   &nbsp;&nbsp;
-  <img src="hhttps://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Firewall Freigabe" width="340">
+  <img src="https://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Firewall Freigabe" width="340">
 </p>
 
 3. Brille per USB anstecken.
@@ -192,7 +192,7 @@ The program configures the network interface for the goggles **automatically**. 
 <p align="center">
   <img src="https://goggles3streamer.micha3582.de/img/win-smartscreen-warning.jpg" alt="SmartScreen Warning" width="340">
   &nbsp;&nbsp;
-  <img src="hhttps://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Network Permission" width="340">
+  <img src="https://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Network Permission" width="340">
 </p>
 
 3. Connect your goggles via USB.
