@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://goggles3streamer.micha3582.de/img/Goggles3Streamer-Banner-gh.jpg" alt="Goggles3Streamer Banner" width="100%">
+  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/g3s-banner.jpg?raw=true" alt="Goggles3Streamer Banner" width="100%">
 </p>
 
 # Goggles3Streamer
@@ -47,7 +47,7 @@ Windows nach Administratorrechten, danach nie wieder.
 > frei. Ist sie aus, kommt kein einziges Bild — und nichts weist darauf hin.
 >
 > <p align="center">
->   <img src="https://goggles3streamer.micha3582.de/img/network-toggle.jpg" alt="Live-Ansicht über Wi-Fi für Mobilgerät freigeben" width="480">
+>   <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/settings.jpg?raw=true" alt="Live-Ansicht über Wi-Fi für Mobilgerät freigeben" width="480">
 > </p>
 >
 > Das ist mit Abstand der häufigste Grund, warum es bei jemandem nicht geht.
@@ -60,9 +60,9 @@ Windows nach Administratorrechten, danach nie wieder.
    - Die Windows-Firewall-Abfrage mit **Zulassen** bestätigen, damit der lokale Datenstrom empfangen werden kann.
 
 <p align="center">
-  <img src="https://goggles3streamer.micha3582.de/img/win-smartscreen-warning.jpg" alt="SmartScreen Warnung" width="340">
+  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/win-warning_1.jpg?raw=true" alt="SmartScreen Warnung" width="340">
   &nbsp;&nbsp;
-  <img src="https://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Firewall Freigabe" width="340">
+  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/network_1.jpg?raw=true" alt="Firewall Freigabe" width="340">
 </p>
 
 3. Brille per USB anstecken.
@@ -82,6 +82,7 @@ unvollständig und es kommt auch kein Bild.
 | Windows sieht die Brille gar nicht | Ladekabel ohne Datenadern, oder USB-C zu USB-C → **USB-A nehmen**. Hilft das nicht: PC herunterfahren **und vom Strom trennen** (ein Neustart setzt die USB-Anschlüsse nicht zurück) |
 | Bild zerrissen oder ruckelig | Taste `T` zeigt die Zähler — steigt „verworfen", kommt die Anzeige nicht nach |
 | „Air Unit im Energiesparmodus" | Die Drohne schläft, kurz bewegen |
+| „Netzwerk ließ sich nicht automatisch einrichten", obwohl Windows die Adresse korrekt zeigt | Ein **aktives VPN mit vollständigem Tunnel** (z. B. WireGuard) blockiert den Zugriff aufs lokale Subnetz → VPN kurz trennen |
 
 Neben dem Programm liegt `goggles3streamer.log`. Dort steht, was zuletzt
 passiert ist — die erste Datei, in die man schaut.
@@ -137,7 +138,7 @@ wo auch der Quelltext von mpv erhältlich ist.
 # English
 
 <p align="center">
-  <img src="https://goggles3streamer.micha3582.de/img/Goggles3Streamer-Banner-gh.jpg" alt="Goggles3Streamer Banner" width="100%">
+  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/g3s-banner.jpg?raw=true" alt="Goggles3Streamer Banner" width="100%">
 </p>
 
 **Live video feed from the DJI Goggles 3 on your PC — via USB, straight and simple.**
@@ -177,7 +178,7 @@ The program configures the network interface for the goggles **automatically**. 
 > Inside the goggles, the tile **"Share live view over Wi-Fi to mobile device"** must be enabled (Quick Menu: swipe down on the 5D button / joystick). Despite "over Wi-Fi" in the name, this toggle **also enables the USB connection**. If disabled, not a single video frame is transmitted — without any error or hint.
 >
 > <p align="center">
->   <img src="https://goggles3streamer.micha3582.de/img/network-toggle.jpg" alt="Share live view over Wi-Fi to mobile device" width="480">
+>   <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/settings.jpg?raw=true" alt="Share live view over Wi-Fi to mobile device" width="480">
 > </p>
 >
 > This is by far the most common reason why it doesn't work.
@@ -190,9 +191,9 @@ The program configures the network interface for the goggles **automatically**. 
    - When prompted by Windows Firewall / Security, click **Allow** to permit local network streaming.
 
 <p align="center">
-  <img src="https://goggles3streamer.micha3582.de/img/win-smartscreen-warning.jpg" alt="SmartScreen Warning" width="340">
+  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/win-warning_1.jpg?raw=true" alt="SmartScreen Warning" width="340">
   &nbsp;&nbsp;
-  <img src="https://goggles3streamer.micha3582.de/img/network-permission.jpg" alt="Network Permission" width="340">
+  <img src="https://github.com/Micha-3582/Goggles3Streamer/blob/main/network_1.jpg?raw=true" alt="Firewall Allow" width="340">
 </p>
 
 3. Connect your goggles via USB.
@@ -209,6 +210,7 @@ The program configures the network interface for the goggles **automatically**. 
 | Windows does not detect the goggles at all | Charge-only cable used, or USB-C to USB-C issue → **Switch to a USB-A port**. If that fails: shut down the PC **and unplug the power cord briefly** (a standard reboot does not reset USB controller state) |
 | Video is stuttering or tearing | Press `T` to inspect internal counters — if "dropped" rises, the display pipeline is lagging behind |
 | "Air Unit in Low-Power State" | The drone is idling in sleep mode; move it briefly to wake it up |
+| "Could not set up the network automatically", even though Windows shows the address correctly | An **active full-tunnel VPN** (e.g. WireGuard) blocks access to the local subnet → disconnect the VPN |
 
 The application writes runtime logs to `goggles3streamer.log` located next to the executable. This is the first place to check if anything goes wrong.
 
